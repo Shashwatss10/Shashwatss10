@@ -1,148 +1,122 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shashwat%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&fontColor=e6edf3&height=150&section=header&text=Shashwat%20Sharma&fontSize=40&fontAlignY=38&desc=Aspiring%20DevOps%20%26%20Cloud%20Engineer&descSize=18&descAlignY=60" alt="Shashwat Sharma — Aspiring DevOps and Cloud Engineer" width="100%" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+Arya+College+RTU;Python+Developer;Full-Stack+Web+Developer;Open+Source+Contributor;Building+Projects+to+Learn+Better+%E2%9A%A1" alt="Typing SVG" />
-</a>
+**Linux · Containers · Automation · Cloud · Reliable software delivery**
 
-<br/>
-
-<!-- Profile Views + Followers -->
-[![](https://komarev.com/ghpvc/?username=Shashwatss10&color=6E40C9&style=flat-square&label=Profile+Views)](https://github.com/Shashwatss10)
-[![GitHub followers](https://img.shields.io/github/followers/Shashwatss10?label=Followers&style=flat-square&color=6E40C9)](https://github.com/Shashwatss10?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-sharma-139b5a30b/)
+[![Email](https://img.shields.io/badge/Email-0d1b2a?style=flat-square&logo=gmail&logoColor=22d3ee)](mailto:onlyshashwat10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1b2a?style=flat-square&logo=github&logoColor=22d3ee)](https://github.com/Shashwatss10)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-Hey! I'm **Shashwat Sharma**, a final-year B.Tech Computer Science student at **Arya College of Engineering & IT, Jaipur** (affiliated with RTU, Kota). I'm passionate about building real-world full-stack applications and contributing to open source.
+I'm a final-year B.Tech Computer Science & Engineering student at **Arya College of Engineering & IT, Jaipur** (affiliated with RTU, Kota), and I'm looking for an entry-level **DevOps / Cloud Engineer** role.
 
-- 🎓 **7th Semester** — B.Tech CSE @ Arya College of Engineering & IT, RTU Kota
-- 🔭 Currently sharpening skills in **Python, DSA, System Design, and REST APIs**
-- 🌱 Actively building portfolio projects and exploring **web development**
-- 🤝 Open to collaborating on **Python, Open Source, and Web Dev** projects
-- 💬 Ask me about **Python · Flask · React · C++ · Java · Git · Linux · SQL**
-- ⚡ **Philosophy:** *The best way to learn programming is by building things that matter.*
+I'm **Red Hat Certified System Administrator (RHCSA)** certified and completed DevOps training at **Grras Solutions Pvt. Ltd.** Alongside my software projects, I'm building hands-on experience with Linux administration, containers, automation and AWS, with the goal of making software easier to build, ship and run reliably.
+
+> I'm a fresher. I'd rather show you what I've built and learned than overstate it.
 
 ---
 
-## 🌐 Connect With Me
+## Skills
+
+| Area | Technologies |
+|---|---|
+| **Linux & Administration** | ![Linux](https://img.shields.io/badge/Linux-0d1b2a?style=flat-square&logo=linux&logoColor=22d3ee) ![RHEL](https://img.shields.io/badge/RHEL-0d1b2a?style=flat-square&logo=redhat&logoColor=22d3ee) ![Bash](https://img.shields.io/badge/Bash-0d1b2a?style=flat-square&logo=gnubash&logoColor=22d3ee) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-0d1b2a?style=flat-square&logo=docker&logoColor=22d3ee) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0d1b2a?style=flat-square&logo=docker&logoColor=22d3ee) |
+| **Version Control & CI/CD** | ![Git](https://img.shields.io/badge/Git-0d1b2a?style=flat-square&logo=git&logoColor=22d3ee) ![GitHub](https://img.shields.io/badge/GitHub-0d1b2a?style=flat-square&logo=github&logoColor=22d3ee) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1b2a?style=flat-square&logo=githubactions&logoColor=22d3ee) |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-0d1b2a?style=flat-square&logo=python&logoColor=22d3ee) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=flat-square&logo=javascript&logoColor=22d3ee) ![C++](https://img.shields.io/badge/C++-0d1b2a?style=flat-square&logo=cplusplus&logoColor=22d3ee) ![Java](https://img.shields.io/badge/Java-0d1b2a?style=flat-square&logo=openjdk&logoColor=22d3ee) ![SQL](https://img.shields.io/badge/SQL-0d1b2a?style=flat-square&logo=postgresql&logoColor=22d3ee) |
+| **Web & Databases** | ![React](https://img.shields.io/badge/React-0d1b2a?style=flat-square&logo=react&logoColor=22d3ee) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1b2a?style=flat-square&logo=fastapi&logoColor=22d3ee) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1b2a?style=flat-square&logo=postgresql&logoColor=22d3ee) |
+
+**Currently learning:** AWS (EC2, IAM, S3), Kubernetes, Ansible, Nginx, DNS and networking fundamentals.
+
+---
+
+## Featured Projects
+
+### [PromithicAI](https://github.com/Shashwatss10/PromithicAI) · [Live site](https://promithic-ai.vercel.app/)
+
+An AI web-app builder: describe an app, and a **Planner → Coder → Reviewer** agent pipeline generates the HTML/CSS/JS, streams it into an in-browser editor and previews it in a sandbox.
+
+- **Stack:** HTML, CSS, vanilla JavaScript, Monaco Editor · FastAPI + LangGraph backend · Firebase Auth · Supabase (PostgreSQL) · Vercel
+- **Features:**
+  - Multi-agent pipeline with bounded retry loops
+  - Live token streaming (SSE) into Monaco Editor
+  - Sandboxed iframe preview of generated apps
+  - Firebase-authenticated API with build history synced to Supabase
+  - Multiple LLM providers, with bring-your-own-key and offline fallbacks
+- **Deployment:** Frontend is deployed on Vercel. The repository documents a split deployment with the backend on Railway.
+- **DevOps relevance:** environment-based configuration (`.env.example`), separate frontend/backend deployment, auth-domain configuration.
+- **Next steps (planned, not yet built):** containerise the backend, add a CI workflow, document the deployment architecture.
+
+### [Expense Tracker with Budget Insights](https://github.com/Shashwatss10/Expense-Tracker)
+
+A full-stack personal finance app for tracking income and expenses, managing category budgets and exporting reports.
+
+- **Stack:** React 18, Tailwind CSS, Recharts · FastAPI, SQLAlchemy · PostgreSQL / SQLite · Docker Compose
+- **Features:**
+  - Income and expense tracking with a dashboard summary
+  - Category management and monthly budget monitoring with alerts
+  - Analytics charts (income vs. expense, category breakdown)
+  - PDF and CSV export
+  - Dark / light theme
+- **Deployment:** Runs locally; the repo includes a `docker-compose.yml`. No hosted demo yet.
+- **Next steps (planned, not yet built):** Dockerfiles for each service, GitHub Actions for build and tests, hosted deployment with documentation.
+
+---
+
+## DevOps Labs
+
+I'm starting a practical lab repository, **`devops-engineering-labs`**, to document hands-on work. Each lab will include the objective, commands, validation steps, common errors and what I learned.
+
+Planned topics: Linux / RHCSA practice · Bash scripting · Docker and Compose · Kubernetes basics · Ansible · AWS fundamentals · CI/CD with GitHub Actions · troubleshooting.
+
+<!-- Add the repository link here once it exists and contains real labs. -->
+
+---
+
+## Certifications & Training
+
+| Credential | Type | Issuer |
+|---|---|---|
+| **Red Hat Certified System Administrator (RHCSA)** | Professional certification (2025) | Red Hat |
+| **DevOps Training** | Training program (Jan – Apr 2026) | Grras Solutions Pvt. Ltd. |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-sharma-139b5a30b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlyshashwat10@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashwatss10)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sharma25_shashwat)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@Shashwat1110)
+<img src="https://github-readme-stats.vercel.app/api?username=Shashwatss10&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" alt="GitHub statistics for Shashwatss10" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwatss10&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Most used languages on GitHub" height="150" />
+
+<sub>Statistics are served by a third-party service and may occasionally be unavailable. <a href="https://github.com/Shashwatss10?tab=repositories">Browse repositories</a> directly.</sub>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Current Focus
 
-### 🤖 [PromithicAI](https://github.com/Shashwatss10/PromithicAI)
-> An AI-powered multi-agent pipeline application
-
-- Built a **3-agent pipeline** architecture for intelligent task automation
-- Developed using **Python** with modular, extensible agent design
-- Demonstrates practical LLM orchestration and agentic reasoning patterns
-
----
-
-### 💸 [Expense Tracker with Budget Insights](https://github.com/Shashwatss10)
-> A full-stack personal finance management web app
-
-- **15 REST API endpoints** built with **Flask** & **Flask-SQLAlchemy** (PostgreSQL backend)
-- **10 React frontend components** including 4 reusable UI components for forms, modals, tables, and navbars
-- **3 chart types** (bar, pie, line) powered by **Chart.js** for visual budget analytics
-- **PDF & CSV export** functionality for transaction history and reports
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Tools & Design
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Shashwatss10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shashwatss10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Shashwatss10&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%"/>
-
-<br/>
-
-<!-- Detailed commit + PR + issue stats -->
-<img src="https://github-readme-stats.shion.dev/api?username=Shashwatss10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="55%"/>
-
-<br/><br/>
-
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwatss10&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
-
-</div>
-
----
-
-## 🎯 Currently Focused On
-
-- 📚 Mastering **Data Structures & Algorithms**
-- 🏗️ Building scalable **full-stack applications** with Flask + React
-- 🌐 Exploring **open source contributions** and collaborative development
-- 🎯 Growing as a developer — always looking for exciting projects to work on
+- Linux administration and troubleshooting
+- Docker and container networking
+- Kubernetes fundamentals
+- AWS infrastructure and security basics
+- Ansible automation
+- CI/CD pipelines with GitHub Actions
+- Reliable, repeatable application deployment
 
 ---
 
 <div align="center">
 
-*"The best way to learn programming is by building projects."*
+I enjoy turning manual steps into repeatable, reliable processes — and I'm eager to keep learning on a real team.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+[LinkedIn](https://www.linkedin.com/in/shashwat-sharma-139b5a30b/) · [Email](mailto:onlyshashwat10@gmail.com) · [GitHub](https://github.com/Shashwatss10)
 
 </div>

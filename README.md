@@ -37,7 +37,7 @@ $ cat credentials.txt
 RHCSA certified  ·  DevOps training at Grras Solutions Pvt. Ltd.
 ```
 
-I'm a final-year Computer Science & Engineering student looking for an **entry-level DevOps / Cloud Engineer** role. I'm **RHCSA certified** and completed **DevOps training at Grras Solutions**. I'm building hands-on experience with Linux administration, containers, automation and AWS, with the goal of making software easier to build, ship and run reliably.
+I'm a final-year Computer Science & Engineering student seeking an **entry-level DevOps/Cloud Engineer** role. I'm **RHCSA-certified** and have completed **DevOps training at Grras Solutions**. I'm building hands-on experience with Linux administration, containers, automation, and AWS to make software easier to build, ship, and run reliably.
 
 > I'm a fresher. I'd rather show you what I've built and learned than overstate it.
 
@@ -84,7 +84,6 @@ flowchart LR
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -125,7 +124,7 @@ A full-stack personal finance app for tracking income and expenses, managing cat
 
 ## DevOps Labs
 
-I'm starting a practical lab repository, **`devops-engineering-labs`**, to document hands-on work. Each lab will include the objective, commands, validation steps, common errors and what I learned.
+I'm starting a practical lab repository, **`devops-engineering-labs`**, to document hands-on work. Each lab will include the objective, commands, validation steps, common errors, and what I learned.
 
 | Track | Status |
 |---|---|
